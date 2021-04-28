@@ -10,6 +10,7 @@ import com.laioffer.newsapp.model.Article;
 
 import java.util.List;
 
+//Dao: Query, Insert, Delete
 @Dao
 public interface ArticleDao {
 
@@ -22,4 +23,4 @@ public interface ArticleDao {
     @Delete
     void deleteArticle(Article article);
 }
-//
+
