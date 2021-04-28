@@ -51,5 +51,4 @@ public class Article implements Serializable {
         return Objects.hash(author, content, description, publishedAt, title, url, urlToImage);
     }
 
-
 }
