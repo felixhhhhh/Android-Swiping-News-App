@@ -1,4 +1,4 @@
-package com.laioffer.newsapp.model;
+package com.project.newsapp.model;
 
 import java.util.List;
 import java.util.Objects;
