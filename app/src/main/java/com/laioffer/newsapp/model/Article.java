@@ -1,4 +1,4 @@
-package com.laioffer.newsapp.model;
+package com.project.newsapp.model;
 
 import androidx.annotation.NonNull;
 import androidx.room.Entity;
