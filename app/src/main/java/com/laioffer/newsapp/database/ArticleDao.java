@@ -1,4 +1,4 @@
-package com.laioffer.newsapp.database;
+package com.project.newsapp.database;
 
 import androidx.lifecycle.LiveData;
 import androidx.room.Dao;
