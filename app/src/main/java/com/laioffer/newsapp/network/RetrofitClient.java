@@ -1,4 +1,4 @@
-package com.laioffer.newsapp.network;
+package com.project.newsapp.network;
 
 import android.content.Context;
 
