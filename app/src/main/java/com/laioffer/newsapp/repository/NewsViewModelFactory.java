@@ -1,4 +1,4 @@
-package com.laioffer.newsapp.repository;
+package com.project.newsapp.repository;
 
 import androidx.annotation.NonNull;
 import androidx.lifecycle.ViewModel;
