@@ -1,4 +1,4 @@
-package com.laioffer.newsapp.repository;
+package com.project.newsapp.repository;
 
 import android.content.Context;
 import android.os.AsyncTask;
